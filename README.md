@@ -15,6 +15,6 @@ i use tampermonkey as its the most popular and the one im most familiar with but
 
 ## Installation
 
-1. Navigate to [index.js](github.com/LightLordYT/Canvas-Auto-Login/blob/main/index.js)
+1. Navigate to [index.js](/index.js)
 2. Either copy the script and enter it manually in your userscript manager of choice OR press the "raw" button and tampermonkey will ask you to install it(idk abt any of the other userscript managers)
 3. Your done
