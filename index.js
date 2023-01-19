@@ -6,7 +6,6 @@
 // @author       LightLord
 // @match        https://smuhsd.instructure.com/login?needs_cookies=1
 // @match        https://sites.google.com/smuhsd.org/canvas
-// @match        https://developer.mozilla.org/en-US/docs/Glossary/Endianness
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=instructure.com
 // @grant window.close
 // ==/UserScript==
